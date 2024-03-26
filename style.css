@@ -1,0 +1,144 @@
+.inbox{
+    background-color: rgb(255, 255, 255);
+    /* height: 100px; */
+}
+.inbox1{
+    background-color: skyblue;
+    /* height: 400px; */
+    /* margin: 5px; */
+    margin-left:-100px;
+    text-align:end;
+}
+.inbox2{
+    background-color:skyblue;
+    margin: 5px;
+    padding: 60px;
+    color: white;
+    text-align:left;
+}
+.kook{
+    background-color: aliceblue;
+    color:skyblue;
+    text-decoration: none;
+    padding: 5px;
+    display: inline-block;
+
+}
+.line{
+    background-color:#ffffff;
+    height: 1px;
+    width: 60%;
+    display: inline-block;
+}
+.bun{
+    background-color: skyblue;
+}
+.inbox3{
+    background-color: #ffffff;
+    /* height: 200px; */
+    padding: 20px;
+    margin: 15px;
+    text-align: center;
+}
+.vk{
+  background-color: #ffffff;
+  color: skyblue;
+  text-decoration: none;
+  padding: 10px;
+  border: 1px solid skyblue;
+}
+.yg{
+    background-color: white;
+}
+
+.hope{
+    /* background-color: rgba(18, 141, 241, 0.797); */
+    background-color:rgb(87, 185, 224);
+}
+.inbox4{
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+}
+.line1{
+    background-color:#ffffff;
+    height: 1px;
+    width: 100px;
+    display: inline-block;
+}
+.icon1{
+    color:rgb(255, 255, 255);
+    font-size: 25px;
+    /* background-color: rgb(223, 237, 223); */
+    padding:12px 15px;
+    border-radius: 50%;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.inbox5{
+    text-align: center;
+    color: white;
+    margin: 5px;
+    padding: 10px;
+}
+.jin{
+    background-color: rgb(255, 255, 255);
+    color:skyblue;
+    text-decoration: none;
+    padding: 5px;
+}
+.v{
+    background-color: black;
+}
+
+.inbox6{
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+.line2{
+    background-color:#6e5e5e;
+   min-height: 1px;
+    width: 100px;
+    margin: auto;
+    margin-top: -5px;
+}
+
+.inbox7{
+    /* margin: 2px; */
+    margin-right: -20px;
+    margin-top: 3px;
+}
+
+
+.inbox8{
+    margin-right: -20px;
+    margin-top: 3px;
+    margin-bottom: 2px;
+}
+.nj{
+    background-color: black;
+}
+.inbox9{
+    color: #ffffff;
+    text-align: center;
+}
+.rj{
+    background-color: rgb(255, 255, 255);
+    color: skyblue;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.inbox10{
+    text-align: center;
+    padding: 10px;
+    color:rgb(84, 83, 83) ;
+}
+.ur{
+    background-color: aliceblue;
+}
+.icon2{
+    color: rgb(84, 83, 83);
+}
